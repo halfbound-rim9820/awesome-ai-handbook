@@ -1,29 +1,41 @@
-<div align="center">
+<p align="center">
+  <a href="https://github.com/nageoffer/awesome-ai-handbook">
+    <picture>
+      <source srcset="assets/ai-handbook-banner.png">
+      <img src="assets/ai-handbook-banner.png" alt="Awesome AI Handbook">
+    </picture>
+  </a>
+</p>
 
-# 🤖 Awesome AI Handbook
+<p align="center">
+  <strong>程序员转型 AI 工程师的全栈知识手册</strong><br/>
+  系统梳理 AI 基础、LLM、RAG、Agent 等核心知识，助你从入门到拿下 AI Offer。
+</p>
 
-**程序员转型 AI 工程师的全栈知识手册**
+<p align="center">
+  <a href="https://github.com/nageoffer/awesome-ai-handbook/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/nageoffer/awesome-ai-handbook?style=social" /></a>
+  <a href="https://github.com/nageoffer/awesome-ai-handbook/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/nageoffer/awesome-ai-handbook?style=social" /></a>
+  <a href="./LICENSE"><img alt="License: Apache 2.0" src="https://img.shields.io/badge/License-Apache%202.0-orange.svg?style=flat-square" /></a>
+  <a href="https://nageoffer.com/ai"><img alt="Online Docs" src="https://img.shields.io/badge/在线阅读-nageoffer.com-green.svg?style=flat-square" /></a>
+</p>
 
-系统梳理 AI 基础、LLM、RAG、Agent 等核心知识，助你从入门到拿下 AI Offer。
+<p align="center">
+  <a href="https://nageoffer.com/ai">在线阅读</a> •
+  <a href="#-入门导航">入门导航</a> •
+  <a href="#-体系教学">体系教学</a> •
+  <a href="#-大厂面经">大厂面经</a> •
+  <a href="#-面试问答">面试问答</a>
+</p>
 
-[![GitHub stars](https://img.shields.io/github/stars/nageoffer/awesome-ai-handbook?style=social)](https://github.com/nageoffer/awesome-ai-handbook)
-[![License: Apache2.0](https://img.shields.io/badge/License-Apache2.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
-
-[在线阅读](https://nageoffer.com/ai) •
-[入门导航](#-入门导航) •
-[体系教学](#-体系教学) •
-[大厂面经](#-大厂面经) •
-[面试问答](#-面试问答)
-
-</div>
+---
 
 ## 💡 为什么做这个项目
 
 大模型时代已经到来，越来越多的程序员希望转型 AI 方向，但面临几个痛点：
 
-- 🤯 知识碎片化，不知道从哪学起
-- 📚 理论和实战脱节，看了很多论文但不会落地
-- 😰 面试不知道考什么，缺少体系化的准备资料
+> - **知识碎片化**：不知道从哪学起，找不到系统的学习路径
+> - **理论和实战脱节**：看了很多论文但不会落地，缺少工程化实践
+> - **面试无从准备**：不知道 AI 岗位考什么，缺少体系化的备战资料
 
 这个仓库就是为了解决这些问题 —— **一份持续更新的 AI 工程师成长手册**。
 

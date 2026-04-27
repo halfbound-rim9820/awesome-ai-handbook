@@ -15,7 +15,7 @@
   <a href="https://github.com/nageoffer/awesome-ai-handbook/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/nageoffer/awesome-ai-handbook?style=social" /></a>
   <a href="https://github.com/nageoffer/awesome-ai-handbook/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/nageoffer/awesome-ai-handbook?style=social" /></a>
   <a href="./LICENSE"><img alt="License: Apache 2.0" src="https://img.shields.io/badge/License-Apache%202.0-orange.svg?style=flat-square" /></a>
-  <a href="https://nageoffer.com/ai"><img alt="Online Docs" src="https://img.shields.io/badge/在线阅读-nageoffer.com-green.svg?style=flat-square" /></a>
+  <a href="https://nageoffer.com/ai"><img alt="Online Docs" src="https://img.shields.io/badge/在线阅读-nageoffer.com-blue.svg?style=flat-square" /></a>
 </p>
 
 ## 💡 为什么做这个项目
@@ -128,7 +128,7 @@ AI HandBook 开源小册仍在持续更新之中，欢迎您参与本项目，�
 
 <p align="left">
     <a href="https://github.com/nageoffer/awesome-ai-handbook/graphs/contributors">
-        <img width="770" src="https://contrib.rocks/image?repo=nageoffer/awesome-ai-handbook&columns=8" />
+        <img src="https://contrib.rocks/image?repo=nageoffer/awesome-ai-handbook&columns=8" />
     </a>
 </p>
 

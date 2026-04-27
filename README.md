@@ -9,7 +9,6 @@
 
 <p align="center">
   <strong>程序员转型 AI 工程师的全栈知识手册</strong><br/>
-  系统梳理 AI 基础、LLM、RAG、Agent 等核心知识，助你从入门到拿下 AI Offer。
 </p>
 
 <p align="center">
@@ -19,16 +18,6 @@
   <a href="https://nageoffer.com/ai"><img alt="Online Docs" src="https://img.shields.io/badge/在线阅读-nageoffer.com-green.svg?style=flat-square" /></a>
 </p>
 
-<p align="center">
-  <a href="https://nageoffer.com/ai">在线阅读</a> •
-  <a href="#-入门导航">入门导航</a> •
-  <a href="#-体系教学">体系教学</a> •
-  <a href="#-大厂面经">大厂面经</a> •
-  <a href="#-面试问答">面试问答</a>
-</p>
-
----
-
 ## 💡 为什么做这个项目
 
 大模型时代已经到来，越来越多的程序员希望转型 AI 方向，但面临几个痛点：
@@ -37,7 +26,7 @@
 > - **理论和实战脱节**：看了很多论文但不会落地，缺少工程化实践
 > - **面试无从准备**：不知道 AI 岗位考什么，缺少体系化的备战资料
 
-这个仓库就是为了解决这些问题 —— **一份持续更新的 AI 工程师成长手册**。
+这个仓库就是为了解决这些问题 —— **一份持续更新的 AI 工程师成长手册**，系统梳理 AI 基础、LLM、RAG、Agent 等核心知识，助你从入门到转型 AI 工程师。
 
 ## 🧭 入门导航
 
@@ -126,14 +115,21 @@ awesome-ai-handbook/
 
 ## 🤝 贡献
 
-欢迎提交 PR 或 Issue！无论是：
+AI HandBook 开源小册仍在持续更新之中，欢迎您参与本项目，一同为读者提供更优质的学习内容。
 
-- 📝 纠正错误
-- 💡 补充新内容
-- 🔗 推荐优质资源
-- ❓ 提出你想了解的主题
+- **内容修正**：请您协助修正或在评论区指出语法错误、内容缺失、文字歧义、无效链接或代码 bug 等问题。
+- **补充新内容**：期待您贡献 RAG、Agent、LLM 等方向的原创教程或实践总结。
+- **推荐优质资源**：欢迎推荐高质量的书单、课程、博客与开源项目。
 
-都非常欢迎！
+欢迎您提出宝贵意见和建议，如有任何问题请提交 [Issues](https://github.com/nageoffer/awesome-ai-handbook/issues)。
+
+感谢以下各位为此作出贡献的伙伴：
+
+<p align="left">
+    <a href="https://github.com/nageoffer/awesome-ai-handbook/graphs/contributors">
+        <img width="770" src="https://contrib.rocks/image?repo=nageoffer/awesome-ai-handbook&max=300&columns=8" />
+    </a>
+</p>
 
 ## ⭐ Star History
 
@@ -143,6 +139,6 @@ awesome-ai-handbook/
 
 ## 📜 License
 
-[Apache 2.0](./LICENSE) © Ding.ma
+该项目遵循的是 Apache 2.0 许可协议——详情请参阅 [LICENSE](./LICENSE) 文件。
 
 > 🔔 **持续更新中，建议 Star + Watch 追踪最新内容！**

@@ -83,17 +83,16 @@
 
 > 🚧 正在规划中，将覆盖 Agent 架构、多智能体协作、记忆与规划等核心主题。
 
-## 💼 大厂面经
+## 💼 AI Agent 面试题库
 
-真实 AI 岗位面试记录，按公司分类，还原面试现场。
+精选 AI Agent 领域高频面试题，覆盖 Agent、RAG、LLM、MCP 等核心方向，数据来源于牛客、小红书、脉脉等多平台。
 
-> 🚧 内容持续收录中，欢迎提交你的面经 PR！
-
-## ❓ 面试问答
-
-从面经中提炼高频问题，逐题深度解答，助你建立答题框架。
-
-> 🚧 内容整理中，即将上线。
+| 模块 | 说明 | 状态 |
+|:-----|:-----|:----:|
+| [Top50 必刷题](./docs/interview/top50.md) | 按出现频次×难度加权排序的 50 道高频核心题 | ✅ |
+| [按分类浏览](./docs/interview/categories.md) | Agent / RAG / Prompt / MCP 等分类维度 | 🔲 |
+| [按公司浏览](./docs/interview/companies.md) | 字节、阿里、腾讯、百度等公司维度 | 🔲 |
+| [趋势洞察](./docs/interview/insights.md) | 各分类题目数量分布与趋势变化 | 🔲 |
 
 ## 📁 项目结构
 
@@ -101,7 +100,7 @@
 awesome-ai-handbook/
 ├── docs/
 │   ├── growth/                                   # 🧭 成长路径
-│   ├── interview/                                # 📚 大厂面经
+│   ├── interview/                                # 💼 AI Agent 面试题库
 │   └── rag/                                      # 📖 RAG 体系教学
 │       ├── llm-basics/                           #     大模型基础
 │       ├── rag-core/                             #     RAG 核心链路
